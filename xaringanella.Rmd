@@ -1,0 +1,48 @@
+---
+title: "IKONOS-2 Imaging Satellite"
+author: "Ella Merten-Mancer"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      
+---
+
+class: center
+
+# What is the IKONOS-2 satellite?
+
+- IKONOS-2 was a satellite launched in 1999 and decommissioned in 2015 (it had a mission life of 15 years)
+
+- It was the first commercial satellite to collect images with a resolution of 0.8m
+
+---
+#2
+---
+#3
+
+---
+#4
+---
+#5
+
+
+
+---
+
+#6
+
+---
+#7
+---
+#8
+---
+#9
+---
+#10
+---
+# References
+
