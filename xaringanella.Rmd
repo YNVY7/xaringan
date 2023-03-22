@@ -1,5 +1,6 @@
 ---
 title: "IKONOS-2 Imaging Satellite"
+subtitle: "The world's first high-resolution commercial imaging satellite"
 author: "Ella Merten-Mancer"
 output:
   xaringan::moon_reader:
@@ -19,15 +20,46 @@ class: center
 
 - It was the first commercial satellite to collect images with a resolution of 0.8m
 
+- It was originally launched as with another identical satellite (Ikonos-1) which failed to launch
+
+(Belgian Earth Observation, 2023; eoPortal, 2012)
+
 ---
-#2
+#Satellite details
+
+Owned and operated by DigitalGLobe Inc.
+Spatial Resolution
+Panchromatic images - 0.8m
+Multispectral imagery - 3.2m 
+Revisiting frequency - 3 days
+Orbiting altitude - 681m
+
+Ikonos-2 was able to capture both panchromatic and multispectral images at once as it carried an instrument called the Optical Sensor Assembly (OSA)
+
+It lasted for 15 years despite having a design life of 7 years - the sensor was decommissioned when attempts to resolve an accuracy irregularity failed 
+
 ---
-#3
+#What did it measure?
+Atmosphere and land
+Albedo, reflectance, information about clouds, evegetation, land surface
+
+Ikonos-2 captured almost 600,000 public images
+
+One of the last images it captured was of the Tha Chin River in the Sumut Sakhon City, Thailand, December 2014 
+
+Image of Thailand image credit DigitalGlobe 
+
+---
+#Imagery examples 
 
 ---
 #4
+At the time, the functioning of Ikonos-2 was unique in relation to other commercial satellites
+This is because it allowed each international association to have allocated time where they could task the satellite and receive the imagery instantly
+The significance of this satellite is that it also represented the start of the production and use of earth observation data of a spatial resolution of 1m
 ---
 #5
+studies that have used the data from it and their purpose 
 
 
 
@@ -39,10 +71,25 @@ class: center
 #7
 ---
 #8
+what i have learnt in relation to the sensor
+how the data might be used in future work
+
+Learning about this sensor has helped me understand more about the history of remote sensing imagery and how it has gained popularity over the last 20 years 
+it is interesting how at the time, EO images of 1m resolution were novel compared to now 
+I have also learnt through the applications more ways in which sensors can be used
+I also found it interesting how the sensor was able to continue for more than double its original design life - although it is unclear what really determines putting effort into fixing it versus decommisioning it - i assume by that time other sensors were in use to the point where it was not worth fixing the ikonos-2
+
 ---
 #9
+
+Ikonos-2 contributed to fut
+successor
+
 ---
-#10
+#Summary 
+
+- Ikonos-2 was a satellite which captured panchromatic and multispectral images 
+- It was the first sensor in the world which had a spatial resolution of less than 1m and formed new possibilities in the remote sensing industry
 ---
 # References
-
+Belgian Earth Observation (2023) ‘IKONOS-2’, available at: https://eo.belspo.be/en/satellites-and-sensors/ikonos-2 (accessed: 22.2.23) 
