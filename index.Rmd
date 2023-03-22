@@ -27,10 +27,12 @@ class: center
 
 - It was originally launched as with another identical satellite (Ikonos-1) which failed to launch
 
+IKONOS1 IMAGE CREDIT BELSPO
+
 (Belgian Earth Observation, 2023; eoPortal, 2012)
 
 ---
-#Satellite details
+# Satellite details
 
 Owned and operated by DigitalGLobe Inc.
 Spatial Resolution
@@ -38,39 +40,52 @@ Panchromatic images - 0.8m
 Multispectral imagery - 3.2m 
 Revisiting frequency - 3 days
 Orbiting altitude - 681m
+Off-nadar pointing angle - 30 degrees
 
 Ikonos-2 was able to capture both panchromatic and multispectral images at once as it carried an instrument called the Optical Sensor Assembly (OSA)
 
 It lasted for 15 years despite having a design life of 7 years - the sensor was decommissioned when attempts to resolve an accuracy irregularity failed 
 
 ---
-#What did it measure?
-Atmosphere and land
-Albedo, reflectance, information about clouds, evegetation, land surface
+class: left
+.center[
+# What did it capture?
+]
+## Atmospheric and land data 
+- Albedo
+- Reflectance
+- Information about clouds and weather
+- Vegetation
+- Land surface
 
-Ikonos-2 captured almost 600,000 public images
-
-One of the last images it captured was of the Tha Chin River in the Sumut Sakhon City, Thailand, December 2014 
+## Ikonos-2 captured almost 600,000 public images during its time
+- One of the last images it captured was of the Tha Chin River in the Sumut Sakhon City, Thailand, December 2014 
 
 Image of Thailand image credit DigitalGlobe 
 
 ---
-#Imagery examples 
+# Imagery examples 
+
+indonesia credit digital globe
+
+The aftermath of a tsunami in Banda Aceh, Indonesia, June 2013 
+
+ikonis3 credit digital globe and NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS
+Nisyros Island, a volcanic island in Greece, April 2000
 
 ---
-#4
+#Significance of Ikonos-2
 At the time, the functioning of Ikonos-2 was unique in relation to other commercial satellites
 This is because it allowed each international association to have allocated time where they could task the satellite and receive the imagery instantly
 The significance of this satellite is that it also represented the start of the production and use of earth observation data of a spatial resolution of 1m
----
-#5
-studies that have used the data from it and their purpose 
-
-
 
 ---
+# Studies which have used Ikonos-2 imagery
 
-#6
+
+
+---
+# Studies which have used Ikonos-2 imagery 2
 
 ---
 #7
@@ -90,11 +105,24 @@ I also found it interesting how the sensor was able to continue for more than do
 Ikonos-2 contributed to fut
 successor
 
+DigitalGLobe are now able to use and are continuing to improve the use of remotely sensed data in disaster relief aid 
+
+Ikonos-2 allowed for many uses 
+yet there is an abundance now of EO data 
+need to understand how it can be used efficiently and maximise its potential especially with regards to sustainability, protection the population, SDGs, climate change etc population. 
+
 ---
 #Summary 
 
 - Ikonos-2 was a satellite which captured panchromatic and multispectral images 
 - It was the first sensor in the world which had a spatial resolution of less than 1m and formed new possibilities in the remote sensing industry
+
+
+
 ---
 # References
 Belgian Earth Observation (2023) ‘IKONOS-2’, available at: https://eo.belspo.be/en/satellites-and-sensors/ikonos-2 (accessed: 22.2.23) 
+
+eoPortal (2012) 'Ikonos-2', available at: https://www.eoportal.org/satellite-missions/ikonos-2 (accessed: 22.2.23)
+
+Kramer, M (2015) 'The life and death of Ikonos, a pioneering commercial satellite', available at: https://mashable.com/archive/ikonos-satellite-digitalglobe (accessed: 22.2.23)
