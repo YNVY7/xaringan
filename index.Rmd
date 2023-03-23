@@ -25,7 +25,7 @@ class: left
 - It was originally launched with another identical satellite (Ikonos-1) which failed to launch
 - It lasted for 15 years despite having a design life of 7 years - the sensor was decommissioned when attempts to resolve an accuracy irregularity failed 
 
-```{r echo=FALSE, out.width = "40%", fig.align='center', cache=FALSE, fig.cap="Source: BELSPO"}
+```{r echo=FALSE, out.width = "40%", fig.align='center', cache=FALSE, fig.cap="(Source: BELSPO)"}
 knitr::include_graphics('ikonos1.jpg') 
 ```
 
@@ -61,12 +61,17 @@ knitr::include_graphics('thailand.jpeg')
 class:center
 # Imagery examples 
 .pull-left[
-The aftermath of a tsunami in Banda Aceh, Indonesia, June 2013
-Image name indonesia (Source: DigitalGlobe)
+The aftermath of a tsunami in Banda Aceh, Indonesia, June 2013 (DigitalGlobe)
+
+```{r echo=FALSE, out.width = "120%", fig.align='center', cache=FALSE}
+knitr::include_graphics('indonesia.jpeg')
+```
 ]
 .pull-right[
-Nisyros Island, a volcanic island in Greece, April 2000
-Image name ikonos3 (Source: DigitalGlobe, National and Kapodistrian University of Athens)
+Nisyros Island, a volcanic island in Greece, April 2000 (DigitalGlobe, National and Kapodistrian University of Athens)
+```{r echo=FALSE, out.width = "120%", fig.align='center', cache=FALSE}
+knitr::include_graphics('ikonos3.jpg')
+```
 ]
 ---
 class:left
@@ -89,21 +94,19 @@ class: left
 # Studies which have used Ikonos-2 imagery
 ]
 ## River flood damage assessment (Van der Sande, 2001)
-This study used Ikonos-2 data to identify urban and suburban features as part of land use mapping for damage assessments. It was noted in this paper that due to the large information the imagery contains it was hard to extract objects.
+This study used Ikonos-2 data to identify urban and suburban features as part of land use mapping for damage assessments. It was noted in this paper that due to the large information the imagery contains, it was hard to extract objects.
 
 ##Characterisation of suburban areas for land use planning (Greenhill, et al., 2003)
 This study utilised ecological indicators such as a vegetation index derived from Ikonos-2 data to identify the spatial distributions and different types of land cover in suburban areas in London. The imagery used was multispectral and the paper noted that this type of imagery can be used in land use planning for future sustainable development. 
 
 ---
 class:left
-.center[
-# Studies which have used Ikonos-2 imagery 2
-]
-##Using Ikonos-2 imgaery for forest structure variable estimation (Kayitakire, et al., 2006)
-This paper performed image texture analysis on Ikonos-2 data in order to identify key forest variables such as age, circumference and basal area. The use of both panchromatic and multispectral Ikonos-2 imagery demonstrated lower estimation errors for many of these variables compared to other sensors, however some estimation errors were still to high for planning use. 
+##Using Ikonos-2 imagery for forest structure variable estimation (Kayitakire, et al., 2006)
+This paper performed image texture analysis on Ikonos-2 data in order to identify key forest variables such as age, circumference and basal area. The use of both panchromatic and multispectral Ikonos-2 imagery demonstrated lower estimation errors for many of these variables compared to other sensors, however some estimation errors were still too high for planning use. 
 
 ##Urban population estimates using Ikonos-2 and lidar data (Tomas, et al., 2015)
-This paper estimated urban populations through analysing the volume of one story houses and high rise buildings, highlighting common issues of underestimation in official statistics. The Ikonos-2 and lidar data were used to create a digital surface model. This study shows once more how both Ikonos-2's multispectral and panchromatic data were used together in an analysis. 
+This paper estimated urban populations through analysing the volume of one story houses and high rise buildings, highlighting common issues of underestimation in official statistics. The Ikonos-2 and lidar data were used to create a digital surface model. This study shows once more how Ikonos-2's multispectral and panchromatic data can be used together during analysis. 
+
 ---
 class: left
 .center[
@@ -116,7 +119,7 @@ class: left
 
 - I have also learnt through the applications section more ways in which sensor data can be used
 
-- I also found it interesting how the sensor was able to continue for more than double its original design life, and how it can be assumed that more effort was not made in fixing it so it could function again was by that time others sensors already in use were sufficient enough that Ikonos-2 was not needed anymore 
+- I also found it interesting how the sensor was able to continue for more than double its original design life, and how it can be assumed that more effort was not made in fixing it so it was because others sensors which were in use by that time were sufficient enough that Ikonos-2 was not needed anymore :(
 
 ---
 class: left
@@ -125,13 +128,13 @@ class: left
 ]
 - Ikonos-2 contributed to increasing work at the time in showing the value of remotely sensed data
 
-- The owner of Ikonos-2, DigitalGlobe, are now able to use and are continuing to improve the use of remotely sensed data in disaster relief aid specifically at the moment 
+- The owner of Ikonos-2, DigitalGlobe, are now able to use and are continuing to improve the use of remotely sensed data in disaster relief aid
 
 - It seems to me that without the gains from Ikonos-2 this progress may have been a lot slower 
 
-- Ikonos-2 also allowed earth observation data to be used in many new ways, however now there is an abundance of data
+- Ikonos-2 also allowed Earth Observation data to be used in many new ways. However, there is now an abundance of data
 
-- In the future I think we must understand how this data can be used more efficiently and maximise its potnetial especially with regards to sustainability, climate change, population growth and to contribute to the SDGs
+- In the future I think we must understand how this data can be used more efficiently and maximise its potential especially with regards to sustainability, climate change, population growth and to contribute to the SDGs
 
 ---
 # References
@@ -142,9 +145,10 @@ eoPortal (2012) 'Ikonos-2', available at: https://www.eoportal.org/satellite-mis
 Greenhill, D., Lennart, R., et al. (2003) 'Characterization of Suburban Areas for Land Use Planning Using Landscape Ecological Indicators Derived From Ikonos-2 Multispectral Imagery', IEEE Transaction on Geoscience and Remote Sensing, 41, 9, pp. 2015-2021
 
 Kayitakire, F., Hamel, C. and Defourny, P. (2006) 'Retrieving forest structure variables based on image texture analysis and IKONOS-2 imagery', Remote Sensing of Environment, 102, pp. 390-401
-
 Kramer, M (2015) 'The life and death of Ikonos, a pioneering commercial satellite', available at: https://mashable.com/archive/ikonos-satellite-digitalglobe (accessed: 22.2.23)
 
+---
+#References 2
 Tomas, L., Fonseca, L., et al. (2015) 'Urban population estimation based on residential buildings volume using IKONOS-2 images and lidar data', International Journal of Remote Sensing, 37, pp. 1-28
 
-Van der Sande, C.J. (2001) 'River flood damage asseement using IKONOS imagery', European Commission, Joint Research Centre, Natrual Hazards Unit - Floods, Ispra, Italy 
+Van der Sande, C.J. (2001) 'River flood damage asseement using IKONOS imagery', European Commission, Joint Research Centre, Natrual Hazards Unit - Floods, Ispra, Italy
